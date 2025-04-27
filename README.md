@@ -4,5 +4,4 @@ Hello, my name is Tilak Patel. I am a developer/builder by heart. I live in Redm
 
 You will find some of my non-work related experiments ⚡ on github. 
 
-![](https://github-readme-stats.vercel.app/api?username=tilakp&show_icons=true&count_private=true&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakp&hide=html)
