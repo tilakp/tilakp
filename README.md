@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hello, my name is Tilak Patel. I am a developer/builder by heart. I live in Redmond, Washington with my beautiful wife and work at Amazon. Living a meaningful life is something that fuels me and keeps me going. I love taking [photos](https://www.instagram.com/tilak) and reading [books](http://goodreads.com/tilakv).
-
-You will find some of my non-work related experiments ⚡ on github. 
+You will find some of my non-work related experiments ⚡ here. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakp&hide=html)
