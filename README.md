@@ -28,8 +28,6 @@ A Bauhaus-inspired analog clock screensaver. It is a native `.saver` bundle writ
 **[glance](https://github.com/tilakp/glance)** · Swift  
 A calm eye-break reminder for macOS. It follows the 20-20-20 rule, lives in the menu bar, and stays quiet during calls and presentations.
 
-### Desktop apps
-
 **[canopy](https://github.com/tilakp/canopy)** · TypeScript  
 A simple mindmapping desktop app for thinking, built with Tauri.
 
