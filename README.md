@@ -25,6 +25,27 @@ A retro flip clock built in SwiftUI. The digits scale to fill whatever window yo
 **[formzeit-screensaver](https://github.com/tilakp/formzeit-screensaver)** · Swift  
 A Bauhaus-inspired analog clock screensaver. It is a native `.saver` bundle written in Swift, built without an Xcode project.
 
+**[glance](https://github.com/tilakp/glance)** · Swift  
+A calm eye-break reminder for macOS. It follows the 20-20-20 rule, lives in the menu bar, and stays quiet during calls and presentations.
+
+### Desktop apps
+
+**[canopy](https://github.com/tilakp/canopy)** · TypeScript  
+A simple mindmapping desktop app for thinking, built with Tauri.
+
+### Raycast extensions
+
+**[commute](https://github.com/tilakp/commute)** · TypeScript  
+Shows your drive to work and back, with live traffic on a map.
+
+**[bookmark-everywhere](https://github.com/tilakp/bookmark-everywhere)** · TypeScript  
+Saves a URL to GoodLinks, Pinboard, and Readwise Reader in one keypress.
+
+### Obsidian plugins
+
+**[obsidian-rough-highlighter](https://github.com/tilakp/obsidian-rough-highlighter)** · TypeScript  
+Hand-drawn highlight annotations for Obsidian, in both reading view and live preview. Built on rough-notation.
+
 ### Configs and older experiments
 
 **[hammerspoon-dotfiles](https://github.com/tilakp/hammerspoon-dotfiles)** · Lua  
